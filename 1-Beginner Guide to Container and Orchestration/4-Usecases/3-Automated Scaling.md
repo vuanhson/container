@@ -12,4 +12,4 @@ Automated scaling depends on the ability to spin up new instance quickly and eff
 
 Since containers are small and can start up quickly, they are ideal for this purpose. This mean that if the system detects an increase in usage, it can spin up new containers in a few seconds.
 
-This increase stability
+This increase stability and reduces cost! Your users see less downtime due to high loads, and you don't use (and pay for resources unnecessarity)
